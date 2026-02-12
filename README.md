@@ -1,5 +1,5 @@
 <h1 align="center">⚙️ About me 🖥️</h1>
-<p align="center">Hi! Enthusiast Developer here! I'm Mitchelle Arley. You can call me "Arley"— Aspiring "System/Language Developer". Don't mind those other things down there— "Web Frameworks/Languages". I have with those kind of experience, but I just hate it already, since I was bored for me to be there (not to be rude, tbh— it was true).</p>
+<p align="center">Hi! Enthusiast Developer here! I'm Mitchelle Arley. You can call me "Arley"— Aspiring "System/Language Developer". Don't mind those other things down there— "Web Frameworks/Languages". I have with those kind of experience, but I just hate it already, since I was bored to be there (not to be rude, tbh— it was true).</p>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
   <img width="" />
